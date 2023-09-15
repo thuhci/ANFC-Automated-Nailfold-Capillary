@@ -1,0 +1,6 @@
+setup.py
+Object_Detection.nailfold_classifier.egg-info/PKG-INFO
+Object_Detection.nailfold_classifier.egg-info/SOURCES.txt
+Object_Detection.nailfold_classifier.egg-info/dependency_links.txt
+Object_Detection.nailfold_classifier.egg-info/requires.txt
+Object_Detection.nailfold_classifier.egg-info/top_level.txt

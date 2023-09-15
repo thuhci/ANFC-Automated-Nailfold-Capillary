@@ -1,0 +1,10 @@
+# nailfold 甲壁微循环处理Pipeline
+
+## 安装
+```
+bash install.sh
+```
+
+requirements
+scipy
+tqdm
