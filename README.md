@@ -14,11 +14,15 @@ STEP3: `pip install -r requirements.txt`
 `cd Full_Pipeline`
 
 ## Pipeline Example
-Run full pipeline for image analysis:
-` python /Image_Analysis/nailfold_image_profile/overall_analysis.py`
+Run full pipeline for specific image analysis:
+` python Image_Analysis/nailfold_image_profile/overall_analysis.py`
+
+` python Image_Analysis/nailfold_image_profile/overall_analysis.py --image_path "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation" --image_name "8_49510_1.jpg" --output_dir "./output_results" --visualize False`
+Run full pipeline for all images in image_path, just set image_name to '':
+`python Image_Analysis/nailfold_image_profile/overall_analysis.py --image_path "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation" --image_name '' --output_dir "./output_results" --visualize False`
 
 Analyze the video and return the velocity of the white blood cell:
-`python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --out_path ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize True --split_num 1 --pad_ratio 2`
+`python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize True --split_num 1 --pad_ratio 2`
 
 ## Models
 ### UNet for segmetation
@@ -82,7 +86,7 @@ Test the model
 ### Video Profiles(WBC Count and Flow Velocity Measurement)
 Analyze the video and return the velocity of the white blood cell:
 - video example
-python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --out_path ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize True --split_num 1 --pad_ratio 2
+python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize True --split_num 1 --pad_ratio 2
 
 ---
 # Toolbox Interface
@@ -94,7 +98,7 @@ python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_ty
 
 ## for video analysis
 Analyze the video and return the velocity of the white blood cell:
-`t_video_analysis(video_path, out_path, pos: tuple, visualize: bool = False, split_num: int = 2, pad_ratio: float= 1)->typing.List[float]`
+`t_video_analysis(video_path, output_dir, pos: tuple, visualize: bool = False, split_num: int = 2, pad_ratio: float= 1)->typing.List[float]`
 
 
 ---

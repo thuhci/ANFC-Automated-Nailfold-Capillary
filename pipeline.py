@@ -1,11 +1,12 @@
-import os
 import json
-from Video_Process.nailfold_video_process.utils.process_video import *
-from Video_Process.nailfold_video_process.video2keypoint import *
+import os
+
 from Video_Process.nailfold_video_process.estimate_flow import *
 from Video_Process.nailfold_video_process.phase_correlation import *
-from Video_Process.nailfold_video_process.video2video import *
 from Video_Process.nailfold_video_process.tools import NailfoldTools
+from Video_Process.nailfold_video_process.utils.process_video import *
+from Video_Process.nailfold_video_process.video2keypoint import *
+from Video_Process.nailfold_video_process.video2video import *
 
 """
 将一个视频或一个文件夹的视频，分析其血管指标，输出为json
@@ -40,13 +41,13 @@ def photo_process_file(input, output):
     num = len(bboxes)
     keypoints = np.array(keypoints)
     top_diameter = np.linalg.norm(keypoints[:,0] - keypoints[:,1], axis=-1)
-    left_diameter = np.linalg.norm(keypoints[:,2] - keypoints[:,3], axis=-1)
-    right_diameter = np.linalg.norm(keypoints[:,4] - keypoints[:,5], axis=-1)
+    input_diameter = np.linalg.norm(keypoints[:,2] - keypoints[:,3], axis=-1)
+    output_diameter = np.linalg.norm(keypoints[:,4] - keypoints[:,5], axis=-1)
     photo_info = {
         'num': num,
         'top_diameter': [top_diameter.min(), top_diameter.mean(), top_diameter.max()],
-        'left_diameter': [left_diameter.min(), left_diameter.mean(), left_diameter.max()],
-        'right_diameter': [right_diameter.min(), right_diameter.mean(), right_diameter.max()]
+        'input_diameter': [input_diameter.min(), input_diameter.mean(), input_diameter.max()],
+        'output_diameter': [output_diameter.min(), output_diameter.mean(), output_diameter.max()]
     }
     return photo_info
 
@@ -110,7 +111,6 @@ def video_process_file(input, output):
 
 if __name__ == '__main__':
     args = parse_args()
-    # 看7.29中的所有文件夹
     args.input = "/home/user/nailfold/20221003_nailfold/video/54781"
     args.output = "./test"
     root = args.input
