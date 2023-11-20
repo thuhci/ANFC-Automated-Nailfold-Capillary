@@ -10,3 +10,5 @@ bug_solver_log.md
 **/setup.py
 
 *.egg-info
+
+readme_local.md
