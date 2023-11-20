@@ -1,4 +1,8 @@
 **/data/
+data/*
+
+Keypoint_Detection/data/*
+Data_Preprocess/data/*
 
 **/checkpoints/
 
@@ -10,5 +14,17 @@ bug_solver_log.md
 **/setup.py
 
 *.egg-info
+**/*.egg-info
 
 readme_local.md
+
+*/launch.json
+
+**/__pycache__/
+*.pyc
+
+*/log.md
+
+Video_Process/nailfold_video_process/preview.html
+
+**/.vscode/

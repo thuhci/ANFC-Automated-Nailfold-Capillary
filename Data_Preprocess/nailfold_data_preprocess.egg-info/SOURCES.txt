@@ -1,5 +1,0 @@
-setup.py
-nailfold_data_preprocess.egg-info/PKG-INFO
-nailfold_data_preprocess.egg-info/SOURCES.txt
-nailfold_data_preprocess.egg-info/dependency_links.txt
-nailfold_data_preprocess.egg-info/top_level.txt

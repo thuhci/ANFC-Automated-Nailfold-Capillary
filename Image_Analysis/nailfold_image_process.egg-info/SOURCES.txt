@@ -1,6 +1,0 @@
-setup.py
-Image_Analysis.nailfold_image_profile.egg-info/PKG-INFO
-Image_Analysis.nailfold_image_profile.egg-info/SOURCES.txt
-Image_Analysis.nailfold_image_profile.egg-info/dependency_links.txt
-Image_Analysis.nailfold_image_profile.egg-info/requires.txt
-Image_Analysis.nailfold_image_profile.egg-info/top_level.txt
