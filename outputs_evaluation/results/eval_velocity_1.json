@@ -1,0 +1,17 @@
+{
+    "gt": "./outputs_evaluation/labels/results_dict_gt_velocity.json",
+    "pred": "./Flow_Velocity_Measurement/output_test/results_velocity_individual.json",
+    "eval results": {
+        "84328": {
+            "mae": 175.195,
+            "mse": 45167.994
+        },
+        "84328_bool": {
+            "accuracy": 0.667,
+            "precision": 0.744,
+            "recall": 0.667,
+            "f1_score": 0.703,
+            "sample size": 33
+        }
+    }
+}

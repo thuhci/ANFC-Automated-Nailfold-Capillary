@@ -1,0 +1,5780 @@
+{
+    "9_84274_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84274_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 4.17,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.465,
+            "input diameter": 5.521,
+            "output input ratio": 1.17,
+            "top_diameter": 9.254,
+            "length": 114.564
+        }
+    },
+    "9_80692_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.63,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.071,
+            "input diameter": 6.541,
+            "output input ratio": 1.08,
+            "top_diameter": 10.622,
+            "length": 78.096
+        }
+    },
+    "9_59950_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59950_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 6,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 8.79,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.227,
+            "input diameter": 7.037,
+            "output input ratio": 1.17,
+            "top_diameter": 11.182,
+            "length": 133.606
+        }
+    },
+    "8_50004_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_50004_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.1,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.521,
+            "input diameter": 6.431,
+            "output input ratio": 1.01,
+            "top_diameter": 10.022,
+            "length": 94.65
+        }
+    },
+    "9_84274_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84274_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58699_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58699_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 9.46,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.083,
+            "input diameter": 5.05,
+            "output input ratio": 1.2,
+            "top_diameter": 7.411,
+            "length": 59.157
+        }
+    },
+    "8_84237_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84237_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84237_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84237_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58277_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58277_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.77,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.063,
+            "input diameter": 7.121,
+            "output input ratio": 1.13,
+            "top_diameter": 12.121,
+            "length": 52.723
+        }
+    },
+    "8_120403_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_120403_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.05,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.291,
+            "input diameter": 5.396,
+            "output input ratio": 1.17,
+            "top_diameter": 10.123,
+            "length": 51.321
+        }
+    },
+    "8_60136_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_60136_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.1,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.808,
+            "input diameter": 6.577,
+            "output input ratio": 1.19,
+            "top_diameter": 11.873,
+            "length": 85.183
+        }
+    },
+    "8_49510_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_49510_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.2,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.994,
+            "input diameter": 5.923,
+            "output input ratio": 1.18,
+            "top_diameter": 9.397,
+            "length": 124.0
+        }
+    },
+    "8_140724_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_140724_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.123,
+            "input diameter": 7.699,
+            "output input ratio": 1.06,
+            "top_diameter": 10.878,
+            "length": 110.22
+        }
+    },
+    "9_84274_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84274_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_1621954_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621954_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.52,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.354,
+            "input diameter": 5.671,
+            "output input ratio": 1.12,
+            "top_diameter": 9.503,
+            "length": 141.878
+        }
+    },
+    "8_55868_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55868_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.12,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_58497_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58497_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_59950_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59950_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.37,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.062,
+            "input diameter": 7.28,
+            "output input ratio": 1.11,
+            "top_diameter": 8.944,
+            "length": 56.859
+        }
+    },
+    "8_58646_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58646_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 7,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.28,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.417,
+            "input diameter": 6.781,
+            "output input ratio": 1.09,
+            "top_diameter": 10.665,
+            "length": 108.781
+        }
+    },
+    "9_60031_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60031_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_1621955_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.89,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": 7.0,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_84206_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84206_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_115825_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_115825_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_60021_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60021_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.12,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.016,
+            "input diameter": 7.268,
+            "output input ratio": 1.1,
+            "top_diameter": 11.424,
+            "length": 87.131
+        }
+    },
+    "8_55868_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55868_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.21,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.535,
+            "input diameter": 6.57,
+            "output input ratio": 1.15,
+            "top_diameter": 8.708,
+            "length": 70.43
+        }
+    },
+    "9_58528_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58528_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.36,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.76,
+            "input diameter": 6.041,
+            "output input ratio": 1.28,
+            "top_diameter": 10.885,
+            "length": 135.37
+        }
+    },
+    "9_80692_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58631_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58631_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 3,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 8.59,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.517,
+            "input diameter": 5.683,
+            "output input ratio": 1.15,
+            "top_diameter": 11.479,
+            "length": 165.474
+        }
+    },
+    "9_58611_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58611_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84333_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84333_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.7,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.063,
+            "input diameter": 8.0,
+            "output input ratio": 1.01,
+            "top_diameter": 10.133,
+            "length": 96.756
+        }
+    },
+    "9_55961_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55961_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 4.66,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.0,
+            "input diameter": 4.893,
+            "output input ratio": 1.43,
+            "top_diameter": 8.345,
+            "length": 70.099
+        }
+    },
+    "8_75843_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_75843_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.27,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.464,
+            "input diameter": 7.978,
+            "output input ratio": 1.19,
+            "top_diameter": 13.369,
+            "length": 171.809
+        }
+    },
+    "9_52958_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_52958_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 10.15,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_58858_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 11,
+            "normal num": 10,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 11.61,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.242,
+            "input diameter": 6.627,
+            "output input ratio": 1.09,
+            "top_diameter": 9.962,
+            "length": 93.558
+        }
+    },
+    "9_84274_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84274_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.82,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.698,
+            "input diameter": 6.204,
+            "output input ratio": 1.08,
+            "top_diameter": 10.96,
+            "length": 54.838
+        }
+    },
+    "8_59695_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59695_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_59673_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59673_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 3.69,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.849,
+            "input diameter": 6.415,
+            "output input ratio": 1.07,
+            "top_diameter": 8.739,
+            "length": 63.432
+        }
+    },
+    "8_62573_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62573_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 2,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 10.23,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.492,
+            "input diameter": 7.387,
+            "output input ratio": 1.01,
+            "top_diameter": 11.232,
+            "length": 66.362
+        }
+    },
+    "8_59640_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59640_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.05,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.463,
+            "input diameter": 6.198,
+            "output input ratio": 1.2,
+            "top_diameter": 11.418,
+            "length": 122.156
+        }
+    },
+    "8_59986_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59986_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 6,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 9.22,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.135,
+            "input diameter": 5.716,
+            "output input ratio": 1.07,
+            "top_diameter": 8.759,
+            "length": 80.901
+        }
+    },
+    "9_58277_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58277_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.37,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.485,
+            "input diameter": 7.004,
+            "output input ratio": 1.21,
+            "top_diameter": 10.072,
+            "length": 116.385
+        }
+    },
+    "9_84328_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84328_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 0,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.51,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_62635_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62635_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_84283_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84283_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 11,
+            "normal num": 7,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 10.97,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.934,
+            "input diameter": 6.23,
+            "output input ratio": 1.27,
+            "top_diameter": 9.42,
+            "length": 109.09
+        }
+    },
+    "9_58519_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58519_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.74,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.236,
+            "input diameter": 5.292,
+            "output input ratio": 1.18,
+            "top_diameter": 9.426,
+            "length": 72.195
+        }
+    },
+    "8_1621955_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.39,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.549,
+            "input diameter": 6.293,
+            "output input ratio": 1.2,
+            "top_diameter": 11.46,
+            "length": 132.196
+        }
+    },
+    "9_63991_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_63991_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 7,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.77,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.458,
+            "input diameter": 6.446,
+            "output input ratio": 1.16,
+            "top_diameter": 10.296,
+            "length": 82.45
+        }
+    },
+    "8_99751_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_99751_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.57,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.88,
+            "input diameter": 7.156,
+            "output input ratio": 1.24,
+            "top_diameter": 10.331,
+            "length": 84.297
+        }
+    },
+    "8_120403_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_120403_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.76,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.311,
+            "input diameter": 5.387,
+            "output input ratio": 1.17,
+            "top_diameter": 8.65,
+            "length": 103.928
+        }
+    },
+    "8_84329_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84329_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 6,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 8.82,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.804,
+            "input diameter": 6.186,
+            "output input ratio": 1.1,
+            "top_diameter": 9.769,
+            "length": 132.4
+        }
+    },
+    "8_84294_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84294_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.36,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_60021_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60021_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.5,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.098,
+            "input diameter": 7.617,
+            "output input ratio": 1.06,
+            "top_diameter": 11.437,
+            "length": 161.27
+        }
+    },
+    "8_1621490_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621490_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.22,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.325,
+            "input diameter": 4.472,
+            "output input ratio": 1.41,
+            "top_diameter": 8.246,
+            "length": 55.444
+        }
+    },
+    "9_55823_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55823_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.65,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.653,
+            "input diameter": 6.633,
+            "output input ratio": 1.15,
+            "top_diameter": 9.097,
+            "length": 39.836
+        }
+    },
+    "8_73998_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_73998_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 1,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 4.94,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_60031_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60031_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_62489_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62489_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58611_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58611_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84329_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84329_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 7,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 8.7,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.292,
+            "input diameter": 5.521,
+            "output input ratio": 1.14,
+            "top_diameter": 8.339,
+            "length": 130.24
+        }
+    },
+    "9_84206_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84206_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_55823_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55823_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 1,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.17,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.325,
+            "input diameter": 5.831,
+            "output input ratio": 1.08,
+            "top_diameter": 7.211,
+            "length": 31.016
+        }
+    },
+    "8_58497_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58497_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_55961_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55961_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58452_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58452_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 8,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.16,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.89,
+            "input diameter": 5.903,
+            "output input ratio": 1.17,
+            "top_diameter": 8.888,
+            "length": 115.536
+        }
+    },
+    "8_1621954_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621954_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.91,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.708,
+            "input diameter": 5.099,
+            "output input ratio": 1.32,
+            "top_diameter": 10.05,
+            "length": 85.147
+        }
+    },
+    "9_59950_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59950_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 8,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.26,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.118,
+            "input diameter": 7.392,
+            "output input ratio": 1.23,
+            "top_diameter": 13.004,
+            "length": 94.454
+        }
+    },
+    "8_49510_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_49510_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_63991_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_63991_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.02,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.963,
+            "input diameter": 7.033,
+            "output input ratio": 1.13,
+            "top_diameter": 12.101,
+            "length": 140.712
+        }
+    },
+    "9_58528_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58528_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.53,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.0,
+            "input diameter": 7.071,
+            "output input ratio": 1.13,
+            "top_diameter": 11.045,
+            "length": 60.0
+        }
+    },
+    "9_55823_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55823_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 1,
+            "normal num": 0,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_59640_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59640_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 8,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.17,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.752,
+            "input diameter": 7.027,
+            "output input ratio": 1.1,
+            "top_diameter": 11.977,
+            "length": 121.728
+        }
+    },
+    "9_93944_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_93944_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 9.9,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.909,
+            "input diameter": 6.848,
+            "output input ratio": 1.15,
+            "top_diameter": 11.825,
+            "length": 90.092
+        }
+    },
+    "8_56686_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56686_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 7,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.36,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.919,
+            "input diameter": 7.104,
+            "output input ratio": 1.11,
+            "top_diameter": 13.311,
+            "length": 197.443
+        }
+    },
+    "8_56826_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56826_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 5,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 8.02,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.938,
+            "input diameter": 7.772,
+            "output input ratio": 1.15,
+            "top_diameter": 11.347,
+            "length": 125.216
+        }
+    },
+    "8_1621955_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.93,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.448,
+            "input diameter": 8.042,
+            "output input ratio": 1.05,
+            "top_diameter": 10.187,
+            "length": 98.104
+        }
+    },
+    "8_92229_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_92229_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 7,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.14,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.347,
+            "input diameter": 6.539,
+            "output input ratio": 1.12,
+            "top_diameter": 10.728,
+            "length": 133.603
+        }
+    },
+    "8_58631_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58631_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 2.62,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.325,
+            "input diameter": 6.0,
+            "output input ratio": 1.05,
+            "top_diameter": 12.042,
+            "length": 73.082
+        }
+    },
+    "9_58198_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58198_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 9,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 9.34,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.749,
+            "input diameter": 7.281,
+            "output input ratio": 1.2,
+            "top_diameter": 10.535,
+            "length": 110.419
+        }
+    },
+    "8_55868_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55868_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.25,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.0,
+            "input diameter": 7.448,
+            "output input ratio": 1.07,
+            "top_diameter": 10.198,
+            "length": 70.129
+        }
+    },
+    "8_140724_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_140724_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.25,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.175,
+            "input diameter": 7.462,
+            "output input ratio": 1.1,
+            "top_diameter": 10.741,
+            "length": 87.089
+        }
+    },
+    "8_115825_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_115825_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_1621955_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 9.04,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.009,
+            "input diameter": 6.243,
+            "output input ratio": 1.12,
+            "top_diameter": 8.8,
+            "length": 112.574
+        }
+    },
+    "9_59644_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59644_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 8,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 9.22,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 10.168,
+            "input diameter": 8.696,
+            "output input ratio": 1.17,
+            "top_diameter": 12.62,
+            "length": 211.283
+        }
+    },
+    "8_55896_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55896_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.14,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.303,
+            "input diameter": 7.0,
+            "output input ratio": 1.19,
+            "top_diameter": 11.421,
+            "length": 102.683
+        }
+    },
+    "9_95284_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_95284_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_139845_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_139845_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_62506_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62506_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 5,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 7.95,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.64,
+            "input diameter": 6.89,
+            "output input ratio": 1.11,
+            "top_diameter": 9.518,
+            "length": 136.926
+        }
+    },
+    "8_55896_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55896_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.68,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.702,
+            "input diameter": 6.083,
+            "output input ratio": 1.1,
+            "top_diameter": 9.055,
+            "length": 64.633
+        }
+    },
+    "8_92229_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_92229_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 8,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 8.07,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.97,
+            "input diameter": 6.67,
+            "output input ratio": 1.04,
+            "top_diameter": 11.42,
+            "length": 131.417
+        }
+    },
+    "8_59695_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59695_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_59950_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59950_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58699_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58699_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 4,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 10.38,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.957,
+            "input diameter": 6.317,
+            "output input ratio": 1.1,
+            "top_diameter": 8.716,
+            "length": 70.815
+        }
+    },
+    "9_80692_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.15,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.884,
+            "input diameter": 5.427,
+            "output input ratio": 1.27,
+            "top_diameter": 10.088,
+            "length": 109.399
+        }
+    },
+    "9_58198_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58198_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 9,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 10.12,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.756,
+            "input diameter": 6.611,
+            "output input ratio": 1.17,
+            "top_diameter": 10.64,
+            "length": 112.761
+        }
+    },
+    "8_75843_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_75843_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 10,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 9.37,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.997,
+            "input diameter": 6.942,
+            "output input ratio": 1.15,
+            "top_diameter": 10.723,
+            "length": 174.225
+        }
+    },
+    "8_59640_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59640_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.52,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.562,
+            "input diameter": 6.361,
+            "output input ratio": 1.03,
+            "top_diameter": 10.478,
+            "length": 112.916
+        }
+    },
+    "8_1621490_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621490_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.52,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.325,
+            "input diameter": 6.0,
+            "output input ratio": 1.05,
+            "top_diameter": 9.0,
+            "length": 58.215
+        }
+    },
+    "9_58611_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58611_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_99751_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_99751_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.92,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_56686_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56686_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 7,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.32,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.167,
+            "input diameter": 7.402,
+            "output input ratio": 1.1,
+            "top_diameter": 9.623,
+            "length": 152.953
+        }
+    },
+    "8_58699_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58699_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_63991_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_63991_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 7,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 8.98,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.721,
+            "input diameter": 6.912,
+            "output input ratio": 1.12,
+            "top_diameter": 11.376,
+            "length": 143.794
+        }
+    },
+    "8_55896_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55896_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 2.06,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.944,
+            "input diameter": 8.246,
+            "output input ratio": 1.08,
+            "top_diameter": 9.434,
+            "length": 114.018
+        }
+    },
+    "8_55868_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55868_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.718,
+            "input diameter": 5.908,
+            "output input ratio": 1.31,
+            "top_diameter": 10.742,
+            "length": 64.514
+        }
+    },
+    "9_60021_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60021_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 3,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 8.56,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.767,
+            "input diameter": 7.381,
+            "output input ratio": 1.05,
+            "top_diameter": 13.789,
+            "length": 80.734
+        }
+    },
+    "8_84333_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84333_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 1,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.03,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": 8.062,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_99751_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_99751_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.7,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_140724_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_140724_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.51,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.383,
+            "input diameter": 8.394,
+            "output input ratio": 1.0,
+            "top_diameter": 13.331,
+            "length": 51.018
+        }
+    },
+    "9_58484_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.66,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.577,
+            "input diameter": 5.855,
+            "output input ratio": 1.12,
+            "top_diameter": 10.31,
+            "length": 57.154
+        }
+    },
+    "9_62635_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62635_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59736_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59736_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.13,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.0,
+            "input diameter": 6.083,
+            "output input ratio": 1.32,
+            "top_diameter": 11.18,
+            "length": 9.899
+        }
+    },
+    "8_54890_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_54890_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.99,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.071,
+            "input diameter": 7.0,
+            "output input ratio": 1.01,
+            "top_diameter": 9.22,
+            "length": 97.0
+        }
+    },
+    "8_59695_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59695_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_139845_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_139845_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_92229_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_92229_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_55868_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55868_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 4,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 7.01,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.515,
+            "input diameter": 6.607,
+            "output input ratio": 1.14,
+            "top_diameter": 8.925,
+            "length": 118.149
+        }
+    },
+    "9_55884_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55884_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59986_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59986_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.23,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.765,
+            "input diameter": 7.765,
+            "output input ratio": 1.13,
+            "top_diameter": 11.093,
+            "length": 84.439
+        }
+    },
+    "8_62489_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62489_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_56686_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56686_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.71,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.762,
+            "input diameter": 7.49,
+            "output input ratio": 1.17,
+            "top_diameter": 12.436,
+            "length": 103.215
+        }
+    },
+    "8_58452_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58452_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84237_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84237_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58277_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58277_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 9,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 10.69,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.398,
+            "input diameter": 7.425,
+            "output input ratio": 1.13,
+            "top_diameter": 11.498,
+            "length": 133.521
+        }
+    },
+    "8_62573_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62573_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 8.53,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.855,
+            "input diameter": 5.582,
+            "output input ratio": 1.23,
+            "top_diameter": 10.751,
+            "length": 153.632
+        }
+    },
+    "8_115825_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_115825_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_60021_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60021_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 7,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.2,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.906,
+            "input diameter": 7.244,
+            "output input ratio": 1.09,
+            "top_diameter": 10.743,
+            "length": 136.505
+        }
+    },
+    "9_59673_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59673_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 1,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 4.92,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.0,
+            "input diameter": 6.325,
+            "output input ratio": 1.11,
+            "top_diameter": 10.296,
+            "length": 92.892
+        }
+    },
+    "9_91914_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91914_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.96,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.989,
+            "input diameter": 6.393,
+            "output input ratio": 1.25,
+            "top_diameter": 9.993,
+            "length": 121.548
+        }
+    },
+    "9_58528_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58528_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.37,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.28,
+            "input diameter": 6.325,
+            "output input ratio": 1.15,
+            "top_diameter": 10.05,
+            "length": 91.411
+        }
+    },
+    "8_73998_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_73998_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.73,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.651,
+            "input diameter": 7.14,
+            "output input ratio": 1.21,
+            "top_diameter": 11.262,
+            "length": 48.867
+        }
+    },
+    "9_95284_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_95284_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59736_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59736_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58519_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58519_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 1,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 3.3,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.325,
+            "input diameter": 5.828,
+            "output input ratio": 1.09,
+            "top_diameter": 11.402,
+            "length": 72.189
+        }
+    },
+    "8_139845_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_139845_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59791_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59791_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.48,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.327,
+            "input diameter": 8.472,
+            "output input ratio": 1.1,
+            "top_diameter": 12.54,
+            "length": 132.432
+        }
+    },
+    "9_91914_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91914_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 7,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.3,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.085,
+            "input diameter": 7.255,
+            "output input ratio": 1.11,
+            "top_diameter": 11.109,
+            "length": 175.659
+        }
+    },
+    "9_60031_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60031_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_59487_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59487_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_85547_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_85547_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.52,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.983,
+            "input diameter": 5.888,
+            "output input ratio": 1.19,
+            "top_diameter": 11.524,
+            "length": 106.702
+        }
+    },
+    "8_120403_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_120403_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.04,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.882,
+            "input diameter": 7.434,
+            "output input ratio": 1.06,
+            "top_diameter": 10.05,
+            "length": 114.002
+        }
+    },
+    "9_84274_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84274_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.3,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.099,
+            "input diameter": 4.123,
+            "output input ratio": 1.24,
+            "top_diameter": 10.05,
+            "length": 125.674
+        }
+    },
+    "9_93944_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_93944_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 3,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 5.17,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.763,
+            "input diameter": 7.071,
+            "output input ratio": 1.1,
+            "top_diameter": 11.611,
+            "length": 51.021
+        }
+    },
+    "9_85547_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_85547_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.82,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.163,
+            "input diameter": 5.75,
+            "output input ratio": 1.07,
+            "top_diameter": 9.525,
+            "length": 97.597
+        }
+    },
+    "9_58484_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.63,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.204,
+            "input diameter": 5.55,
+            "output input ratio": 1.12,
+            "top_diameter": 10.622,
+            "length": 94.733
+        }
+    },
+    "8_59962_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59962_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 8,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.77,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.618,
+            "input diameter": 6.089,
+            "output input ratio": 1.09,
+            "top_diameter": 9.408,
+            "length": 100.474
+        }
+    },
+    "9_55884_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55884_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_1621955_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.31,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.5,
+            "input diameter": 8.5,
+            "output input ratio": 1.12,
+            "top_diameter": 10.657,
+            "length": 70.619
+        }
+    },
+    "8_84333_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84333_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.32,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.212,
+            "input diameter": 6.451,
+            "output input ratio": 1.12,
+            "top_diameter": 9.433,
+            "length": 77.03
+        }
+    },
+    "8_58699_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58699_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59986_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59986_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 1,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 7.87,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.269,
+            "input diameter": 5.658,
+            "output input ratio": 1.11,
+            "top_diameter": 8.901,
+            "length": 73.021
+        }
+    },
+    "8_62573_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62573_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_55961_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55961_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_62489_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62489_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58541_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58541_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 6,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 9.35,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.444,
+            "input diameter": 7.41,
+            "output input ratio": 1.14,
+            "top_diameter": 11.402,
+            "length": 162.884
+        }
+    },
+    "8_139845_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_139845_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 10.6,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.385,
+            "input diameter": 5.0,
+            "output input ratio": 1.08,
+            "top_diameter": 7.071,
+            "length": 42.202
+        }
+    },
+    "8_58631_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58631_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.75,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.735,
+            "input diameter": 6.125,
+            "output input ratio": 1.1,
+            "top_diameter": 11.161,
+            "length": 162.738
+        }
+    },
+    "8_54890_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_54890_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 2,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 6.08,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.613,
+            "input diameter": 7.225,
+            "output input ratio": 1.05,
+            "top_diameter": 12.575,
+            "length": 110.7
+        }
+    },
+    "9_59487_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59487_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59640_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59640_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.61,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.115,
+            "input diameter": 7.106,
+            "output input ratio": 1.14,
+            "top_diameter": 13.81,
+            "length": 157.867
+        }
+    },
+    "9_55961_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55961_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58484_7.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_7.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 1,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.5,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_58277_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58277_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 9,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.92,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.116,
+            "input diameter": 7.696,
+            "output input ratio": 1.18,
+            "top_diameter": 12.63,
+            "length": 116.884
+        }
+    },
+    "9_55961_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55961_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58631_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58631_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.43,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.535,
+            "input diameter": 5.7,
+            "output input ratio": 1.15,
+            "top_diameter": 10.235,
+            "length": 73.668
+        }
+    },
+    "8_59695_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59695_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_84206_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84206_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_59673_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59673_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 1,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 3.13,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_95284_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_95284_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_80692_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.56,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.331,
+            "input diameter": 6.359,
+            "output input ratio": 1.15,
+            "top_diameter": 10.048,
+            "length": 107.467
+        }
+    },
+    "9_59644_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59644_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 8.72,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.773,
+            "input diameter": 5.78,
+            "output input ratio": 1.17,
+            "top_diameter": 8.572,
+            "length": 114.281
+        }
+    },
+    "8_73998_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_73998_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_58484_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 2,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 7.48,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.411,
+            "input diameter": 5.285,
+            "output input ratio": 1.21,
+            "top_diameter": 9.082,
+            "length": 74.181
+        }
+    },
+    "9_93944_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_93944_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.68,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.374,
+            "input diameter": 8.51,
+            "output input ratio": 1.1,
+            "top_diameter": 13.561,
+            "length": 106.369
+        }
+    },
+    "9_58484_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.78,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_59791_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59791_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.69,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.383,
+            "input diameter": 7.268,
+            "output input ratio": 1.15,
+            "top_diameter": 10.715,
+            "length": 68.183
+        }
+    },
+    "9_84283_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84283_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.08,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.525,
+            "input diameter": 8.395,
+            "output input ratio": 1.13,
+            "top_diameter": 11.831,
+            "length": 90.55
+        }
+    },
+    "8_59695_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59695_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_91576_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91576_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.2,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.062,
+            "input diameter": 6.708,
+            "output input ratio": 1.2,
+            "top_diameter": 10.77,
+            "length": 106.301
+        }
+    },
+    "9_91914_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91914_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 1,
+            "normal num": 0,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.0,
+            "input diameter": 8.062,
+            "output input ratio": 1.12,
+            "top_diameter": 10.77,
+            "length": 75.584
+        }
+    },
+    "9_58198_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58198_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.18,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.152,
+            "input diameter": 7.394,
+            "output input ratio": 1.1,
+            "top_diameter": 9.971,
+            "length": 121.044
+        }
+    },
+    "9_60021_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60021_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 8,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.48,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.349,
+            "input diameter": 7.323,
+            "output input ratio": 1.14,
+            "top_diameter": 11.931,
+            "length": 148.488
+        }
+    },
+    "9_85547_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_85547_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.85,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.708,
+            "input diameter": 7.5,
+            "output input ratio": 1.03,
+            "top_diameter": 12.066,
+            "length": 120.42
+        }
+    },
+    "8_59736_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59736_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.71,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.828,
+            "input diameter": 5.7,
+            "output input ratio": 1.02,
+            "top_diameter": 8.595,
+            "length": 36.007
+        }
+    },
+    "8_49510_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_49510_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 3,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 7.9,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.123,
+            "input diameter": 5.547,
+            "output input ratio": 1.1,
+            "top_diameter": 8.41,
+            "length": 100.933
+        }
+    },
+    "8_62489_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62489_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84329_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84329_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.5,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.0,
+            "input diameter": 7.0,
+            "output input ratio": 1.14,
+            "top_diameter": 10.77,
+            "length": 34.482
+        }
+    },
+    "8_92229_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_92229_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.73,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.357,
+            "input diameter": 5.399,
+            "output input ratio": 1.18,
+            "top_diameter": 10.052,
+            "length": 62.586
+        }
+    },
+    "8_56826_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56826_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 7,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 10.59,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.358,
+            "input diameter": 7.158,
+            "output input ratio": 1.17,
+            "top_diameter": 12.354,
+            "length": 85.375
+        }
+    },
+    "8_1621955_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 8.55,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.97,
+            "input diameter": 6.0,
+            "output input ratio": 1.16,
+            "top_diameter": 10.334,
+            "length": 122.465
+        }
+    },
+    "9_60031_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_60031_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_84206_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84206_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_52958_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_52958_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 3.98,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.662,
+            "input diameter": 5.591,
+            "output input ratio": 1.19,
+            "top_diameter": 10.124,
+            "length": 61.674
+        }
+    },
+    "9_59487_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59487_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_63991_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_63991_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.98,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.788,
+            "input diameter": 7.301,
+            "output input ratio": 1.07,
+            "top_diameter": 12.072,
+            "length": 158.962
+        }
+    },
+    "9_55823_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55823_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 2.51,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_62506_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62506_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.59,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 10.576,
+            "input diameter": 8.929,
+            "output input ratio": 1.18,
+            "top_diameter": 12.298,
+            "length": 61.216
+        }
+    },
+    "9_59487_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59487_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 2.12,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.062,
+            "input diameter": 7.071,
+            "output input ratio": 1.14,
+            "top_diameter": 9.22,
+            "length": 84.853
+        }
+    },
+    "9_59644_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59644_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.09,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.35,
+            "input diameter": 7.536,
+            "output input ratio": 1.24,
+            "top_diameter": 14.993,
+            "length": 78.622
+        }
+    },
+    "9_62635_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62635_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_75843_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_75843_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 12,
+            "normal num": 11,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 12.09,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.128,
+            "input diameter": 7.432,
+            "output input ratio": 1.09,
+            "top_diameter": 12.004,
+            "length": 183.505
+        }
+    },
+    "9_84283_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84283_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 3,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 7.82,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.617,
+            "input diameter": 5.994,
+            "output input ratio": 1.27,
+            "top_diameter": 8.962,
+            "length": 77.784
+        }
+    },
+    "8_60136_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_60136_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.55,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.567,
+            "input diameter": 6.702,
+            "output input ratio": 1.13,
+            "top_diameter": 11.238,
+            "length": 105.283
+        }
+    },
+    "8_61916_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_61916_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 7,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.38,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.973,
+            "input diameter": 6.79,
+            "output input ratio": 1.17,
+            "top_diameter": 11.672,
+            "length": 104.73
+        }
+    },
+    "9_58858_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 7,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.94,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.124,
+            "input diameter": 6.138,
+            "output input ratio": 1.16,
+            "top_diameter": 9.278,
+            "length": 116.55
+        }
+    },
+    "8_56826_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56826_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.13,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.724,
+            "input diameter": 7.424,
+            "output input ratio": 1.18,
+            "top_diameter": 12.282,
+            "length": 129.683
+        }
+    },
+    "8_1621954_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621954_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.85,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.14,
+            "input diameter": 5.016,
+            "output input ratio": 1.22,
+            "top_diameter": 9.137,
+            "length": 122.418
+        }
+    },
+    "8_1621490_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621490_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.77,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.093,
+            "input diameter": 6.357,
+            "output input ratio": 1.12,
+            "top_diameter": 10.099,
+            "length": 59.333
+        }
+    },
+    "8_59791_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59791_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84329_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84329_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 9.59,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.805,
+            "input diameter": 7.103,
+            "output input ratio": 1.24,
+            "top_diameter": 9.403,
+            "length": 100.476
+        }
+    },
+    "8_1621955_7.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621955_7.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.25,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.098,
+            "input diameter": 7.551,
+            "output input ratio": 1.07,
+            "top_diameter": 10.626,
+            "length": 52.627
+        }
+    },
+    "8_58631_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58631_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.37,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.593,
+            "input diameter": 6.608,
+            "output input ratio": 1.15,
+            "top_diameter": 10.979,
+            "length": 131.629
+        }
+    },
+    "8_58497_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58497_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_80692_7.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_7.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 2.36,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_58858_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.53,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.22,
+            "input diameter": 6.589,
+            "output input ratio": 1.1,
+            "top_diameter": 9.005,
+            "length": 80.932
+        }
+    },
+    "9_85547_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_85547_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 9,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 9.74,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.405,
+            "input diameter": 6.373,
+            "output input ratio": 1.16,
+            "top_diameter": 10.462,
+            "length": 95.957
+        }
+    },
+    "9_91914_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91914_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.83,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.071,
+            "input diameter": 6.041,
+            "output input ratio": 1.17,
+            "top_diameter": 11.521,
+            "length": 187.072
+        }
+    },
+    "8_61916_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_61916_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 8,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 11.33,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.745,
+            "input diameter": 7.102,
+            "output input ratio": 1.09,
+            "top_diameter": 10.725,
+            "length": 141.215
+        }
+    },
+    "9_58858_7.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_7.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.44,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.062,
+            "input diameter": 7.071,
+            "output input ratio": 1.14,
+            "top_diameter": 10.033,
+            "length": 96.616
+        }
+    },
+    "9_59487_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59487_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_61916_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_61916_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.4,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.022,
+            "input diameter": 5.812,
+            "output input ratio": 1.21,
+            "top_diameter": 9.613,
+            "length": 131.943
+        }
+    },
+    "9_55823_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55823_6.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 8.21,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.062,
+            "input diameter": 7.071,
+            "output input ratio": 1.14,
+            "top_diameter": 8.544,
+            "length": 50.09
+        }
+    },
+    "9_58519_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58519_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.59,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.0,
+            "input diameter": 7.0,
+            "output input ratio": 1.14,
+            "top_diameter": 10.05,
+            "length": 84.119
+        }
+    },
+    "9_58858_8.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_8.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58452_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58452_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.54,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.723,
+            "input diameter": 6.645,
+            "output input ratio": 1.16,
+            "top_diameter": 9.841,
+            "length": 103.752
+        }
+    },
+    "9_55823_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55823_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.6,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.55,
+            "input diameter": 6.0,
+            "output input ratio": 1.09,
+            "top_diameter": 8.08,
+            "length": 47.606
+        }
+    },
+    "8_59695_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59695_6.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_54890_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_54890_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.4,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.839,
+            "input diameter": 5.651,
+            "output input ratio": 1.21,
+            "top_diameter": 11.777,
+            "length": 71.894
+        }
+    },
+    "9_58858_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.51,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.273,
+            "input diameter": 7.253,
+            "output input ratio": 1.14,
+            "top_diameter": 10.491,
+            "length": 81.959
+        }
+    },
+    "9_58484_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.79,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": 6.083,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_139845_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_139845_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.19,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.0,
+            "input diameter": 5.385,
+            "output input ratio": 1.3,
+            "top_diameter": 8.246,
+            "length": 29.0
+        }
+    },
+    "9_80692_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.38,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.531,
+            "input diameter": 6.412,
+            "output input ratio": 1.17,
+            "top_diameter": 10.528,
+            "length": 87.748
+        }
+    },
+    "8_92229_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_92229_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 7,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 8.14,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.105,
+            "input diameter": 6.128,
+            "output input ratio": 1.16,
+            "top_diameter": 9.634,
+            "length": 116.569
+        }
+    },
+    "8_59986_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59986_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 2,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 6.35,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.054,
+            "input diameter": 5.247,
+            "output input ratio": 1.15,
+            "top_diameter": 8.307,
+            "length": 107.557
+        }
+    },
+    "9_58541_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58541_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 2,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 7.11,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.531,
+            "input diameter": 6.51,
+            "output input ratio": 1.16,
+            "top_diameter": 9.485,
+            "length": 140.421
+        }
+    },
+    "8_58699_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58699_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.52,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.071,
+            "input diameter": 6.667,
+            "output input ratio": 1.06,
+            "top_diameter": 9.647,
+            "length": 53.538
+        }
+    },
+    "9_55884_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55884_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_84328_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84328_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 0,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 5.95,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_59736_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59736_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 1,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.01,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_91576_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91576_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 9.44,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.0,
+            "input diameter": 6.083,
+            "output input ratio": 1.15,
+            "top_diameter": 9.849,
+            "length": 73.0
+        }
+    },
+    "8_58452_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58452_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.22,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.971,
+            "input diameter": 6.203,
+            "output input ratio": 1.12,
+            "top_diameter": 9.008,
+            "length": 136.545
+        }
+    },
+    "9_58528_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58528_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_84328_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84328_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 1,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 2.9,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.062,
+            "input diameter": 7.28,
+            "output input ratio": 1.11,
+            "top_diameter": 11.045,
+            "length": 152.161
+        }
+    },
+    "8_61916_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_61916_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 8.17,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.093,
+            "input diameter": 6.996,
+            "output input ratio": 1.01,
+            "top_diameter": 11.366,
+            "length": 115.293
+        }
+    },
+    "8_115825_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_115825_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_54890_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_54890_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 3,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 10.88,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.591,
+            "input diameter": 5.5,
+            "output input ratio": 1.02,
+            "top_diameter": 9.449,
+            "length": 106.337
+        }
+    },
+    "8_49510_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_49510_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 2,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 6.88,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.665,
+            "input diameter": 6.059,
+            "output input ratio": 1.1,
+            "top_diameter": 8.963,
+            "length": 123.936
+        }
+    },
+    "8_55896_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55896_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 3.15,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.541,
+            "input diameter": 5.193,
+            "output input ratio": 1.26,
+            "top_diameter": 9.685,
+            "length": 113.681
+        }
+    },
+    "8_62573_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62573_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 1,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 3.69,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.0,
+            "input diameter": 5.0,
+            "output input ratio": 1.2,
+            "top_diameter": 10.198,
+            "length": 118.017
+        }
+    },
+    "8_84329_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84329_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.27,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.083,
+            "input diameter": 5.374,
+            "output input ratio": 1.13,
+            "top_diameter": 7.071,
+            "length": 81.557
+        }
+    },
+    "9_84328_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84328_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 2,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 6.74,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.341,
+            "input diameter": 6.372,
+            "output input ratio": 1.15,
+            "top_diameter": 8.813,
+            "length": 104.196
+        }
+    },
+    "9_85547_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_85547_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 8,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 9.33,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.941,
+            "input diameter": 6.541,
+            "output input ratio": 1.06,
+            "top_diameter": 11.175,
+            "length": 100.898
+        }
+    },
+    "9_95284_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_95284_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_50004_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_50004_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.95,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.516,
+            "input diameter": 6.204,
+            "output input ratio": 1.05,
+            "top_diameter": 10.605,
+            "length": 91.491
+        }
+    },
+    "9_52958_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_52958_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 1,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 1.88,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_62635_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62635_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_93944_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_93944_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.28,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.277,
+            "input diameter": 7.268,
+            "output input ratio": 1.14,
+            "top_diameter": 12.864,
+            "length": 142.393
+        }
+    },
+    "8_84294_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84294_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 4.84,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.083,
+            "input diameter": 4.776,
+            "output input ratio": 1.27,
+            "top_diameter": 8.847,
+            "length": 67.554
+        }
+    },
+    "9_80692_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 4.24,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.69,
+            "input diameter": 6.822,
+            "output input ratio": 1.13,
+            "top_diameter": 11.426,
+            "length": 57.438
+        }
+    },
+    "9_58611_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58611_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_59736_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59736_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_49510_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_49510_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 4.92,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.141,
+            "input diameter": 6.136,
+            "output input ratio": 1.16,
+            "top_diameter": 9.863,
+            "length": 118.458
+        }
+    },
+    "9_84283_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84283_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 7,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 10.28,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.385,
+            "input diameter": 7.247,
+            "output input ratio": 1.3,
+            "top_diameter": 10.208,
+            "length": 76.888
+        }
+    },
+    "8_59962_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59962_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.03,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.354,
+            "input diameter": 5.0,
+            "output input ratio": 1.27,
+            "top_diameter": 9.196,
+            "length": 70.464
+        }
+    },
+    "9_58528_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58528_5.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_91576_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91576_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.97,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.711,
+            "input diameter": 7.053,
+            "output input ratio": 1.09,
+            "top_diameter": 8.639,
+            "length": 53.947
+        }
+    },
+    "8_50004_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_50004_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.84,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.559,
+            "input diameter": 6.674,
+            "output input ratio": 1.13,
+            "top_diameter": 9.622,
+            "length": 93.106
+        }
+    },
+    "8_84237_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84237_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_99751_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_99751_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 3,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.7,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.714,
+            "input diameter": 7.281,
+            "output input ratio": 1.06,
+            "top_diameter": 10.288,
+            "length": 57.673
+        }
+    },
+    "9_52958_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_52958_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_75843_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_75843_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.38,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.549,
+            "input diameter": 7.366,
+            "output input ratio": 1.16,
+            "top_diameter": 12.612,
+            "length": 105.381
+        }
+    },
+    "9_59673_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59673_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.019,
+            "input diameter": 6.508,
+            "output input ratio": 1.08,
+            "top_diameter": 9.905,
+            "length": 125.449
+        }
+    },
+    "8_59986_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59986_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 4,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 8.24,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.606,
+            "input diameter": 7.224,
+            "output input ratio": 1.05,
+            "top_diameter": 10.53,
+            "length": 94.647
+        }
+    },
+    "8_61916_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_61916_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 10.3,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.249,
+            "input diameter": 5.807,
+            "output input ratio": 1.25,
+            "top_diameter": 10.768,
+            "length": 132.526
+        }
+    },
+    "9_84274_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_84274_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 4,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.29,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.234,
+            "input diameter": 5.153,
+            "output input ratio": 1.21,
+            "top_diameter": 9.428,
+            "length": 69.307
+        }
+    },
+    "8_59962_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59962_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58646_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58646_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 4,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.29,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.271,
+            "input diameter": 8.082,
+            "output input ratio": 1.15,
+            "top_diameter": 12.561,
+            "length": 124.476
+        }
+    },
+    "8_58452_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58452_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 3.87,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.831,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_59962_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59962_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.76,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.123,
+            "input diameter": 5.891,
+            "output input ratio": 1.04,
+            "top_diameter": 8.87,
+            "length": 98.049
+        }
+    },
+    "8_1621954_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621954_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_1621490_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_1621490_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58646_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58646_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 7,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.99,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.288,
+            "input diameter": 7.402,
+            "output input ratio": 1.12,
+            "top_diameter": 12.132,
+            "length": 139.505
+        }
+    },
+    "9_58858_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 5,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.88,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.085,
+            "input diameter": 6.637,
+            "output input ratio": 1.07,
+            "top_diameter": 10.83,
+            "length": 78.307
+        }
+    },
+    "9_59644_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_59644_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 6,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.81,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.46,
+            "input diameter": 6.594,
+            "output input ratio": 1.13,
+            "top_diameter": 8.942,
+            "length": 71.386
+        }
+    },
+    "8_56686_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56686_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.32,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.833,
+            "input diameter": 6.195,
+            "output input ratio": 1.1,
+            "top_diameter": 8.599,
+            "length": 113.924
+        }
+    },
+    "8_84329_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84329_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 5,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 8.39,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.895,
+            "input diameter": 5.471,
+            "output input ratio": 1.08,
+            "top_diameter": 7.691,
+            "length": 112.553
+        }
+    },
+    "9_91576_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_91576_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 2,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 6.36,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.089,
+            "input diameter": 6.155,
+            "output input ratio": 1.15,
+            "top_diameter": 8.382,
+            "length": 48.361
+        }
+    },
+    "9_58519_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58519_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 7,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 8.3,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.531,
+            "input diameter": 5.77,
+            "output input ratio": 1.13,
+            "top_diameter": 10.033,
+            "length": 115.218
+        }
+    },
+    "8_60136_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_60136_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 1.52,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_58646_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58646_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 7,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 9.42,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.237,
+            "input diameter": 6.742,
+            "output input ratio": 1.22,
+            "top_diameter": 10.931,
+            "length": 117.208
+        }
+    },
+    "8_56686_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56686_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 4,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 8.52,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.822,
+            "input diameter": 6.347,
+            "output input ratio": 1.07,
+            "top_diameter": 8.987,
+            "length": 134.693
+        }
+    },
+    "8_84294_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84294_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 3,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 7.21,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 4.415,
+            "input diameter": 4.062,
+            "output input ratio": 1.09,
+            "top_diameter": 8.031,
+            "length": 105.036
+        }
+    },
+    "8_55896_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_55896_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.13,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.063,
+            "input diameter": 7.567,
+            "output input ratio": 1.07,
+            "top_diameter": 11.182,
+            "length": 122.552
+        }
+    },
+    "8_50004_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_50004_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 11,
+            "normal num": 6,
+            "cross num": 5,
+            "abnormal num": 0,
+            "num per image": 10.48,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.43,
+            "input diameter": 5.716,
+            "output input ratio": 1.12,
+            "top_diameter": 9.274,
+            "length": 111.897
+        }
+    },
+    "8_56826_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56826_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 7,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 10.06,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.711,
+            "input diameter": 6.69,
+            "output input ratio": 1.15,
+            "top_diameter": 10.383,
+            "length": 107.294
+        }
+    },
+    "8_99751_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_99751_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 2,
+            "normal num": 2,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.46,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "8_84237_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84237_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "9_62506_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62506_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 6,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 8.22,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.009,
+            "input diameter": 6.188,
+            "output input ratio": 1.13,
+            "top_diameter": 10.255,
+            "length": 90.623
+        }
+    },
+    "8_62489_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62489_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_58497_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_58497_1.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_60136_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_60136_4.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.45,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.924,
+            "input diameter": 7.036,
+            "output input ratio": 1.13,
+            "top_diameter": 10.099,
+            "length": 45.521
+        }
+    },
+    "9_62506_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_62506_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 6,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 6.12,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.286,
+            "input diameter": 6.375,
+            "output input ratio": 1.14,
+            "top_diameter": 11.077,
+            "length": 96.866
+        }
+    },
+    "9_80692_8.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_80692_8.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 2.77,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 10.198,
+            "input diameter": 7.28,
+            "output input ratio": 1.4,
+            "top_diameter": 11.402,
+            "length": 75.007
+        }
+    },
+    "8_56826_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56826_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 4,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 7.43,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 9.621,
+            "input diameter": 7.676,
+            "output input ratio": 1.25,
+            "top_diameter": 10.624,
+            "length": 131.287
+        }
+    },
+    "8_120403_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_120403_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 4,
+            "normal num": 2,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 6.62,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.071,
+            "input diameter": 5.385,
+            "output input ratio": 1.31,
+            "top_diameter": 10.05,
+            "length": 80.623
+        }
+    },
+    "8_84294_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84294_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 3,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 5.36,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.071,
+            "input diameter": 7.0,
+            "output input ratio": 1.01,
+            "top_diameter": 10.198,
+            "length": 100.841
+        }
+    },
+    "9_58858_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58858_3.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 3,
+            "normal num": 2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 2.39,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "output input ratio": NaN,
+            "top_diameter": NaN,
+            "length": NaN
+        }
+    },
+    "9_95284_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_95284_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_84333_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_84333_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_62573_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_62573_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 4,
+            "cross num": 6,
+            "abnormal num": 0,
+            "num per image": 9.32,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.665,
+            "input diameter": 5.814,
+            "output input ratio": 1.15,
+            "top_diameter": 9.954,
+            "length": 109.514
+        }
+    },
+    "9_58198_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58198_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 9,
+            "normal num": 9,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 8.38,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.498,
+            "input diameter": 7.617,
+            "output input ratio": 1.12,
+            "top_diameter": 10.797,
+            "length": 139.101
+        }
+    },
+    "9_55884_4.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_55884_4.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_54890_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_54890_2.jpg",
+        "image_info": {
+            "visibility": false,
+            "num": 0,
+            "normal num": 0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 0,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 0.0,
+            "input diameter": 0.0,
+            "output input ratio": NaN,
+            "top_diameter": 0.0,
+            "length": 0.0
+        }
+    },
+    "8_73998_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_73998_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 5,
+            "normal num": 5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num per image": 7.61,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.763,
+            "input diameter": 6.577,
+            "output input ratio": 1.18,
+            "top_diameter": 12.441,
+            "length": 79.873
+        }
+    },
+    "8_56826_5.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_56826_5.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 5.84,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.923,
+            "input diameter": 6.935,
+            "output input ratio": 1.29,
+            "top_diameter": 10.923,
+            "length": 122.688
+        }
+    },
+    "9_58541_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58541_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 7.22,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.632,
+            "input diameter": 6.025,
+            "output input ratio": 1.1,
+            "top_diameter": 10.103,
+            "length": 148.043
+        }
+    },
+    "9_58519_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58519_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 6,
+            "normal num": 2,
+            "cross num": 4,
+            "abnormal num": 0,
+            "num per image": 6.97,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 6.484,
+            "input diameter": 5.434,
+            "output input ratio": 1.19,
+            "top_diameter": 9.253,
+            "length": 92.574
+        }
+    },
+    "8_59791_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_59791_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 6,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 6.59,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 8.815,
+            "input diameter": 7.521,
+            "output input ratio": 1.17,
+            "top_diameter": 11.983,
+            "length": 95.216
+        }
+    },
+    "9_58484_6.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58484_6.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 9,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 10.69,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 5.954,
+            "input diameter": 5.263,
+            "output input ratio": 1.13,
+            "top_diameter": 9.848,
+            "length": 55.166
+        }
+    },
+    "8_75843_3.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_75843_3.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 8,
+            "normal num": 7,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num per image": 12.32,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.697,
+            "input diameter": 6.994,
+            "output input ratio": 1.1,
+            "top_diameter": 11.382,
+            "length": 143.616
+        }
+    },
+    "8_140724_2.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/8_140724_2.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 7,
+            "normal num": 4,
+            "cross num": 3,
+            "abnormal num": 0,
+            "num per image": 6.84,
+            "cross ratio <= 0.3": false,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.537,
+            "input diameter": 6.33,
+            "output input ratio": 1.19,
+            "top_diameter": 9.538,
+            "length": 137.39
+        }
+    },
+    "9_58541_1.jpg": {
+        "path": "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation/9_58541_1.jpg",
+        "image_info": {
+            "visibility": true,
+            "num": 10,
+            "normal num": 8,
+            "cross num": 2,
+            "abnormal num": 0,
+            "num per image": 9.49,
+            "cross ratio <= 0.3": true,
+            "abnormal ratio <= 0.1": true,
+            "output diameter": 7.356,
+            "input diameter": 6.843,
+            "output input ratio": 1.07,
+            "top_diameter": 9.473,
+            "length": 96.971
+        }
+    }
+}

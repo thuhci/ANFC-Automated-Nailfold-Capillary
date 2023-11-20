@@ -1,0 +1,13 @@
+__pycache__/*
+*/__pycache__/
+*/log/
+train_log/*
+figs/*
+ckpts/*
+log/
+testset/
+TRAIN_STD_OUTPUT.txt
+.vscode/
+expired/
+old/
+checkpoints/

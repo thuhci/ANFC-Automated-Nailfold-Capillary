@@ -1,0 +1,24 @@
+dataset_dir: "./Data_Preprocess/nailfold_data_preprocess/data/keypoint_dataset"
+
+keypoints_classes_ids2names: {
+                0: 'up',
+                1: 'down',
+                2: 'left-left',
+                3: 'left-right',
+                4: 'right-left',
+                5: 'right-right',
+}
+
+class_name_dict: {
+    'background': 0,
+    'normal': 1,
+}
+
+expname: 'exp_tangshan_keypoint'
+
+num_epochs: 50
+bbox_th: 0.7
+
+# keypoint_num: len(keypoints_classes_ids2names)
+CROSS_PADDING: 100
+TOP_PADDING: 20

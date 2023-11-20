@@ -21,12 +21,12 @@ STEP3: `pip install -r requirements.txt`
 Run full pipeline for specific image analysis:
 ` python Image_Analysis/nailfold_image_profile/overall_analysis.py`
 
-` python Image_Analysis/nailfold_image_profile/overall_analysis.py --image_path "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation" --image_name "9_59673_2.jpg" --output_dir "./output_results" --visualize`
+` python Image_Analysis/nailfold_image_profile/overall_analysis.py --image_path "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation" --image_name "8_58452_5.jpg" --output_dir "./output_test" --visualize`
 Run full pipeline for all images in image_path, just set image_name to '':
 `python Image_Analysis/nailfold_image_profile/overall_analysis.py --image_path "../Nailfold_Data_Tangshan/tangshan_data/tangshan_segmentation" --image_name '' --output_dir "./output_results"  --visualize`
 
 Analyze the video and return the velocity of the white blood cell:
-`python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize True --split_num 1 --pad_ratio 2`
+`python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize --split_num 1 --pad_ratio 2`
 
 ## Models
 ### UNet for segmetation
@@ -80,7 +80,7 @@ interface:
 Please use config files under `暂无`
 
 Dataset
-`/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/nailfold_dataset`
+`/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/data/nailfold_dataset_crossing`
 Train the model
 `/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/nailfold_keypoint 文件夹下`
 
@@ -90,7 +90,10 @@ Test the model
 ### Video Profiles(WBC Count and Flow Velocity Measurement)
 Analyze the video and return the velocity of the white blood cell:
 - video example
-`python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize True --split_num 1 --pad_ratio 2`
+`python Flow_Velocity_Measurement/video_profile.py --video_name "kp-6" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize --split_num 1 --pad_ratio 2`
+`CUDA_VISIBLE_DEVICES=1 python Flow_Velocity_Measurement/video_profile.py --video_name "115825" --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output_test/ --nailfold_pos_x 150 --nailfold_pos_y 100 --visualize --split_num 1 --pad_ratio 1 --video_path_dict_file ./outputs/aligned_video_path_dict.json`
+
+CUDA_VISIBLE_DEVICES=1 python Flow_Velocity_Measurement/video_profile.py  --video_type ".mp4" --video_path ./Flow_Velocity_Measurement/video_sample --output_dir ./Flow_Velocity_Measurement/output_table/ --nailfold_pos_x 150 --nailfold_pos_y 100 --split_num 1 --pad_ratio 2 --video_path_dict_file ./outputs/aligned_video_path_dict.json --visualize
 
 ---
 # Toolbox Interface
@@ -105,4 +108,39 @@ Analyze the video and return the velocity of the white blood cell:
 `t_video_analysis(video_path, output_dir, pos: tuple, visualize: bool = False, split_num: int = 2, pad_ratio: float= 1)->typing.List[float]`
 
 
----W
+---
+### Dataset
+1. original dataset
+/home/user/nailfold/zhaolx/Full_Pipeline/data
+
+2. all dataset used in each tasks
+/home/user/nailfold/zhaolx/Full_Pipeline/Data_Preprocess/data
+
+3. video frame dataset
+/home/user/nailfold/zhaolx/Full_Pipeline/Data_Preprocess/data/new_data_frame
+
+4. keypoints dataset
+original data patch:
+/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/data
+original dataset for all:
+/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/data/nailfold_dataset1
+original dataset for crossing point
+/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/data/nailfold_dataset_crossing
+
+5. classifer
+/home/user/nailfold/zhaolx/Full_Pipeline/Object_Detection/data
+
+6. videos
+/home/user/nailfold/zhaolx/Full_Pipeline/Video_Process/data
+/kp_videos for stabilized videos
+/videos are original one
+
+### checkpoints
+1. Segmentation model
+/home/user/nailfold/zhaolx/Full_Pipeline/Image_Segmentation/image_segmentation/checkpoints/U_Net-60-0.0002-70-0.7000.pkl
+
+2. keypoints
+/home/user/nailfold/zhaolx/Full_Pipeline/Keypoint_Detection/nailfold_keypoint/checkpoints
+
+3. classifier
+/home/user/nailfold/zhaolx/Full_Pipeline/Object_Detection/nailfold_classifier/checkpoints

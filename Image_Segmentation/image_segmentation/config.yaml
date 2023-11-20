@@ -1,0 +1,25 @@
+# Path: Full_Pipeline/Image_Segmentation/image_segmentation/config.yaml
+image_size: 256
+img_ch: 1
+output_ch: 1
+batch_size: 8
+num_workers: 8
+augmentation_prob: 0.7
+num_epochs: 100
+num_epochs_decay: 70
+lr: 0.0002
+beta1: 0.5
+beta2: 0.999
+val_step: 2
+log_step: 2
+mode: train
+model_type: U_Net
+model_path: ./Image_Segmentation/image_segmentation/checkpoints
+train_path: ./Data_Preprocess/nailfold_data_preprocess/data/segment_dataset/train
+valid_path: ./Data_Preprocess/nailfold_data_preprocess/data/segment_dataset/test
+test_path: ./Data_Preprocess/nailfold_data_preprocess/data/segment_dataset/test
+result_path: ./Image_Segmentation/image_segmentation/result
+cuda_idx: 1
+
+visualize: False
+

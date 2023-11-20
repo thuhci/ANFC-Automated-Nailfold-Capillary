@@ -1,0 +1,3 @@
+image_size: 256
+img_ch: 1
+output_ch: 1

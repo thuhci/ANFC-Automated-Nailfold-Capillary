@@ -1,0 +1,36 @@
+classes: ["normal", "blur", "hemo", "abnormal", "aggregation"]
+dataset_dir: "./Object_Detection/data/mask_dataset/train"
+save_dir: "./results"
+train_size: {"normal": 80, "blur": 0, "hemo": 0, "abnormal": 50, "aggregation": 0}
+device: [0,1]
+batch_size: 4
+# split train/val/test
+train_ratio: 0.7
+val_ratio: 0.2
+test_ratio: 0.1
+# data augmentation
+invert_ratio: 0.3
+brightness: 0.1
+hue: 0.1
+saturation: 0.1
+contrast: 0.1
+left_right_flip: 0.3
+up_down_flip: 0.0
+rotate_degree: 0
+num_workers: 8
+epoch: 30
+# mobilenet_v2, mobilenet_v3_small, mobilenet_v3_large,
+# resnet18, resnet34, resnet50, resnet101,
+# resnext50_32x4d, resnext101_32x8d,
+# densenet121, densenet161, densenet169,
+# shufflenet_v2_x0_5, shufflenet_v2_x1_0,
+# squeezenet1_0, squeezenet1_1,
+# wide_resnet50_2, wide_resnet101_2
+model_name: resnet18
+weight_decay: 0.0005
+img_norm: False
+# learning rate decay
+lr: 0.01
+step_size: 5
+gamma: 0.9
+

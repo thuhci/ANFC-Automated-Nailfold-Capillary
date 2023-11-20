@@ -1,0 +1,9 @@
+**/data/
+
+**/checkpoints/
+
+outputs/
+
+bug_solver_log.md
+
+**/setup.py

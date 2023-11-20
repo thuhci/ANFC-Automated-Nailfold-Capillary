@@ -1,0 +1,54 @@
+{
+    "gt": "./outputs_evaluation/labels/results_gt_individual.json",
+    "pred": "./outputs_evaluation/labels/results_pred_individual.json",
+    "eval results": {
+        "output diameter": {
+            "mae": 1.838,
+            "mse": 5.506,
+            "sample size": 55
+        },
+        "input diameter": {
+            "mae": 1.432,
+            "mse": 3.271,
+            "sample size": 55
+        },
+        "top_diameter": {
+            "mae": 3.749,
+            "mse": 19.016,
+            "sample size": 53
+        },
+        "length": {
+            "mae": 33.345,
+            "mse": 1792.61,
+            "sample size": 53
+        },
+        "visibility": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "sample size": 55
+        },
+        "num > 7": {
+            "accuracy": 0.473,
+            "precision": 1.0,
+            "recall": 0.473,
+            "f1_score": 0.642,
+            "sample size": 55
+        },
+        "cross ratio <= 0.3": {
+            "accuracy": 0.782,
+            "precision": 0.983,
+            "recall": 0.782,
+            "f1_score": 0.862,
+            "sample size": 55
+        },
+        "abnormal ratio <= 0.1": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "sample size": 54
+        }
+    }
+}

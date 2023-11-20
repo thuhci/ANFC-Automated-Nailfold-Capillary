@@ -1,0 +1,8 @@
+classify_dataset/
+segment_classify_dataset/
+.vscode/
+results/
+__pycache__/
+*/__pycache__/
+pretrained_models/
+dataset/

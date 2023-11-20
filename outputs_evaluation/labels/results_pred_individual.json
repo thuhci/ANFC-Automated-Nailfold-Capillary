@@ -1,0 +1,1226 @@
+{
+    "115825": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "120403": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.368,
+            "output diameter": 6.889,
+            "input diameter": 5.9,
+            "top_diameter": 9.718,
+            "length": 87.468,
+            "num": 5.0,
+            "normal num": 4.25,
+            "cross num": 0.75,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.17
+        }
+    },
+    "139845": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "140724": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.65,
+            "output diameter": 8.055,
+            "input diameter": 7.471,
+            "top_diameter": 11.122,
+            "length": 96.429,
+            "num": 6.0,
+            "normal num": 4.5,
+            "cross num": 1.5,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.08
+        }
+    },
+    "1621490": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.77,
+            "output diameter": 7.093,
+            "input diameter": 6.357,
+            "top_diameter": 10.099,
+            "length": 59.333,
+            "num": 4.0,
+            "normal num": 2.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.12
+        }
+    },
+    "1621954": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.093,
+            "output diameter": 6.401,
+            "input diameter": 5.262,
+            "top_diameter": 9.563,
+            "length": 116.481,
+            "num": 6.0,
+            "normal num": 4.333,
+            "cross num": 1.667,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.22
+        }
+    },
+    "1621955": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.984,
+            "output diameter": 8.121,
+            "input diameter": 7.326,
+            "top_diameter": 10.346,
+            "length": 93.224,
+            "num": 5.2,
+            "normal num": 3.8,
+            "cross num": 1.4,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.11
+        }
+    },
+    "49510": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.475,
+            "output diameter": 6.731,
+            "input diameter": 5.916,
+            "top_diameter": 9.158,
+            "length": 116.832,
+            "num": 5.75,
+            "normal num": 2.75,
+            "cross num": 3.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.14
+        }
+    },
+    "50004": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.842,
+            "output diameter": 6.756,
+            "input diameter": 6.256,
+            "top_diameter": 9.881,
+            "length": 97.786,
+            "num": 7.0,
+            "normal num": 4.75,
+            "cross num": 2.25,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.08
+        }
+    },
+    "52958": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 3.98,
+            "output diameter": 6.662,
+            "input diameter": 5.591,
+            "top_diameter": 10.124,
+            "length": 61.674,
+            "num": 4.0,
+            "normal num": 2.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.19
+        }
+    },
+    "54890": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.787,
+            "output diameter": 6.681,
+            "input diameter": 6.125,
+            "top_diameter": 11.267,
+            "length": 96.31,
+            "num": 5.333,
+            "normal num": 2.667,
+            "cross num": 2.667,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.09
+        }
+    },
+    "55823": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.625,
+            "output diameter": 7.102,
+            "input diameter": 6.316,
+            "top_diameter": 8.588,
+            "length": 43.721,
+            "num": 4.5,
+            "normal num": 4.0,
+            "cross num": 0.5,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.12
+        }
+    },
+    "55868": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.318,
+            "output diameter": 7.692,
+            "input diameter": 6.633,
+            "top_diameter": 9.643,
+            "length": 80.806,
+            "num": 5.2,
+            "normal num": 4.2,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.16
+        }
+    },
+    "55884": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "55896": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 4.525,
+            "output diameter": 7.402,
+            "input diameter": 6.461,
+            "top_diameter": 10.336,
+            "length": 100.887,
+            "num": 4.25,
+            "normal num": 4.0,
+            "cross num": 0.25,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.15
+        }
+    },
+    "55961": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 4.66,
+            "output diameter": 7.0,
+            "input diameter": 4.893,
+            "top_diameter": 8.345,
+            "length": 70.099,
+            "num": 5.0,
+            "normal num": 3.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.43
+        }
+    },
+    "56686": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.246,
+            "output diameter": 7.701,
+            "input diameter": 6.908,
+            "top_diameter": 10.591,
+            "length": 140.446,
+            "num": 7.0,
+            "normal num": 5.6,
+            "cross num": 1.4,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.11
+        }
+    },
+    "56826": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.178,
+            "output diameter": 8.712,
+            "input diameter": 7.276,
+            "top_diameter": 11.319,
+            "length": 116.924,
+            "num": 8.667,
+            "normal num": 5.833,
+            "cross num": 2.833,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.2
+        }
+    },
+    "58198": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.755,
+            "output diameter": 8.289,
+            "input diameter": 7.226,
+            "top_diameter": 10.486,
+            "length": 120.831,
+            "num": 9.0,
+            "normal num": 8.0,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.15
+        }
+    },
+    "58277": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.438,
+            "output diameter": 8.516,
+            "input diameter": 7.312,
+            "top_diameter": 11.58,
+            "length": 104.878,
+            "num": 8.5,
+            "normal num": 7.5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.16
+        }
+    },
+    "58452": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.307,
+            "output diameter": 7.195,
+            "input diameter": 6.25,
+            "top_diameter": 9.246,
+            "length": 118.611,
+            "num": 7.333,
+            "normal num": 6.333,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.15
+        }
+    },
+    "58484": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.365,
+            "output diameter": 6.286,
+            "input diameter": 5.488,
+            "top_diameter": 9.966,
+            "length": 70.308,
+            "num": 6.25,
+            "normal num": 4.25,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.15
+        }
+    },
+    "58497": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "58519": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.003,
+            "output diameter": 6.417,
+            "input diameter": 5.499,
+            "top_diameter": 9.571,
+            "length": 93.329,
+            "num": 6.0,
+            "normal num": 4.333,
+            "cross num": 1.667,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.17
+        }
+    },
+    "58528": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.36,
+            "output diameter": 7.76,
+            "input diameter": 6.041,
+            "top_diameter": 10.885,
+            "length": 135.37,
+            "num": 4.0,
+            "normal num": 2.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.28
+        }
+    },
+    "58541": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.292,
+            "output diameter": 7.491,
+            "input diameter": 6.697,
+            "top_diameter": 10.116,
+            "length": 137.08,
+            "num": 8.0,
+            "normal num": 5.25,
+            "cross num": 2.75,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.12
+        }
+    },
+    "58611": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "58631": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.535,
+            "output diameter": 6.845,
+            "input diameter": 6.029,
+            "top_diameter": 10.964,
+            "length": 133.377,
+            "num": 6.25,
+            "normal num": 4.25,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.14
+        }
+    },
+    "58646": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.995,
+            "output diameter": 8.303,
+            "input diameter": 7.252,
+            "top_diameter": 11.572,
+            "length": 122.492,
+            "num": 7.0,
+            "normal num": 6.25,
+            "cross num": 0.75,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.14
+        }
+    },
+    "58699": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.12,
+            "output diameter": 6.704,
+            "input diameter": 6.011,
+            "top_diameter": 8.591,
+            "length": 61.17,
+            "num": 6.333,
+            "normal num": 3.667,
+            "cross num": 2.667,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.12
+        }
+    },
+    "58858": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.094,
+            "output diameter": 7.389,
+            "input diameter": 6.649,
+            "top_diameter": 9.913,
+            "length": 90.261,
+            "num": 7.8,
+            "normal num": 6.0,
+            "cross num": 1.8,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.11
+        }
+    },
+    "59487": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "59640": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.337,
+            "output diameter": 7.473,
+            "input diameter": 6.673,
+            "top_diameter": 11.921,
+            "length": 128.667,
+            "num": 7.0,
+            "normal num": 5.75,
+            "cross num": 1.25,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.12
+        }
+    },
+    "59644": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.21,
+            "output diameter": 8.438,
+            "input diameter": 7.152,
+            "top_diameter": 11.282,
+            "length": 118.893,
+            "num": 7.75,
+            "normal num": 6.5,
+            "cross num": 1.25,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.18
+        }
+    },
+    "59673": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.345,
+            "output diameter": 6.934,
+            "input diameter": 6.462,
+            "top_diameter": 9.322,
+            "length": 94.44,
+            "num": 5.0,
+            "normal num": 3.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.07
+        }
+    },
+    "59695": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "59736": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.71,
+            "output diameter": 5.828,
+            "input diameter": 5.7,
+            "top_diameter": 8.595,
+            "length": 36.007,
+            "num": 4.0,
+            "normal num": 4.0,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.02
+        }
+    },
+    "59791": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.253,
+            "output diameter": 8.842,
+            "input diameter": 7.754,
+            "top_diameter": 11.746,
+            "length": 98.61,
+            "num": 5.333,
+            "normal num": 4.333,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.14
+        }
+    },
+    "59950": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.525,
+            "output diameter": 8.672,
+            "input diameter": 7.214,
+            "top_diameter": 12.093,
+            "length": 114.03,
+            "num": 9.0,
+            "normal num": 7.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.2
+        }
+    },
+    "59962": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.52,
+            "output diameter": 6.365,
+            "input diameter": 5.66,
+            "top_diameter": 9.158,
+            "length": 89.662,
+            "num": 6.333,
+            "normal num": 5.333,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.12
+        }
+    },
+    "59986": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.382,
+            "output diameter": 6.966,
+            "input diameter": 6.322,
+            "top_diameter": 9.518,
+            "length": 88.113,
+            "num": 6.8,
+            "normal num": 3.8,
+            "cross num": 3.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.1
+        }
+    },
+    "60021": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.572,
+            "output diameter": 8.027,
+            "input diameter": 7.367,
+            "top_diameter": 11.865,
+            "length": 122.826,
+            "num": 7.8,
+            "normal num": 6.0,
+            "cross num": 1.8,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.09
+        }
+    },
+    "60031": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "60136": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.7,
+            "output diameter": 7.766,
+            "input diameter": 6.772,
+            "top_diameter": 11.07,
+            "length": 78.662,
+            "num": 4.667,
+            "normal num": 4.333,
+            "cross num": 0.333,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.15
+        }
+    },
+    "61916": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 9.116,
+            "output diameter": 7.416,
+            "input diameter": 6.501,
+            "top_diameter": 10.829,
+            "length": 125.141,
+            "num": 7.6,
+            "normal num": 6.0,
+            "cross num": 1.6,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.14
+        }
+    },
+    "62489": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "62506": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.22,
+            "output diameter": 8.128,
+            "input diameter": 7.095,
+            "top_diameter": 10.787,
+            "length": 96.408,
+            "num": 7.25,
+            "normal num": 5.25,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.15
+        }
+    },
+    "62573": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 9.36,
+            "output diameter": 7.004,
+            "input diameter": 6.261,
+            "top_diameter": 10.646,
+            "length": 109.836,
+            "num": 8.0,
+            "normal num": 3.667,
+            "cross num": 4.333,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.12
+        }
+    },
+    "62635": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "63991": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.438,
+            "output diameter": 7.732,
+            "input diameter": 6.923,
+            "top_diameter": 11.461,
+            "length": 131.48,
+            "num": 7.5,
+            "normal num": 6.25,
+            "cross num": 1.25,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.12
+        }
+    },
+    "73998": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.67,
+            "output diameter": 8.207,
+            "input diameter": 6.858,
+            "top_diameter": 11.852,
+            "length": 64.37,
+            "num": 4.5,
+            "normal num": 4.5,
+            "cross num": 0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.2
+        }
+    },
+    "75843": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 9.486,
+            "output diameter": 8.367,
+            "input diameter": 7.342,
+            "top_diameter": 12.018,
+            "length": 155.707,
+            "num": 7.8,
+            "normal num": 7.4,
+            "cross num": 0.4,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.14
+        }
+    },
+    "80692": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.332,
+            "output diameter": 7.359,
+            "input diameter": 6.255,
+            "top_diameter": 10.522,
+            "length": 90.513,
+            "num": 5.25,
+            "normal num": 4.75,
+            "cross num": 0.5,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.18
+        }
+    },
+    "84206": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "84237": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "84274": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 4.895,
+            "output diameter": 6.124,
+            "input diameter": 5.25,
+            "top_diameter": 9.923,
+            "length": 91.096,
+            "num": 4.5,
+            "normal num": 3.75,
+            "cross num": 0.75,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.17
+        }
+    },
+    "84283": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 8.538,
+            "output diameter": 8.615,
+            "input diameter": 6.966,
+            "top_diameter": 10.105,
+            "length": 88.578,
+            "num": 8.0,
+            "normal num": 5.0,
+            "cross num": 3.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.24
+        }
+    },
+    "84294": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.025,
+            "output diameter": 5.249,
+            "input diameter": 4.419,
+            "top_diameter": 8.439,
+            "length": 86.295,
+            "num": 5.0,
+            "normal num": 3.5,
+            "cross num": 1.5,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.19
+        }
+    },
+    "84328": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.74,
+            "output diameter": 7.341,
+            "input diameter": 6.372,
+            "top_diameter": 8.813,
+            "length": 104.196,
+            "num": 5.0,
+            "normal num": 2.0,
+            "cross num": 3.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.15
+        }
+    },
+    "84329": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.545,
+            "output diameter": 6.98,
+            "input diameter": 6.109,
+            "top_diameter": 8.84,
+            "length": 98.618,
+            "num": 7.0,
+            "normal num": 5.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.14
+        }
+    },
+    "84333": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.01,
+            "output diameter": 7.638,
+            "input diameter": 7.226,
+            "top_diameter": 9.783,
+            "length": 86.893,
+            "num": 5.5,
+            "normal num": 4.5,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.06
+        }
+    },
+    "85547": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.852,
+            "output diameter": 7.04,
+            "input diameter": 6.41,
+            "top_diameter": 10.95,
+            "length": 104.315,
+            "num": 7.6,
+            "normal num": 6.0,
+            "cross num": 1.6,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.1
+        }
+    },
+    "91576": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 5.51,
+            "output diameter": 7.621,
+            "input diameter": 6.639,
+            "top_diameter": 9.264,
+            "length": 69.536,
+            "num": 5.0,
+            "normal num": 3.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.15
+        }
+    },
+    "91914": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.697,
+            "output diameter": 7.715,
+            "input diameter": 6.563,
+            "top_diameter": 10.874,
+            "length": 161.426,
+            "num": 6.0,
+            "normal num": 5.333,
+            "cross num": 0.667,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.18
+        }
+    },
+    "92229": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.52,
+            "output diameter": 6.945,
+            "input diameter": 6.184,
+            "top_diameter": 10.458,
+            "length": 111.044,
+            "num": 7.0,
+            "normal num": 6.25,
+            "cross num": 0.75,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.12
+        }
+    },
+    "93944": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 7.258,
+            "output diameter": 8.331,
+            "input diameter": 7.424,
+            "top_diameter": 12.465,
+            "length": 97.469,
+            "num": 7.0,
+            "normal num": 5.0,
+            "cross num": 2.0,
+            "abnormal num": 0,
+            "num > 7": 1,
+            "input output ratio": 1.12
+        }
+    },
+    "95284": {
+        "image_info": {
+            "cross ratio <= 0.3": 0,
+            "abnormal ratio <= 0.1": 0,
+            "visibility": 0,
+            "num per image": NaN,
+            "output diameter": NaN,
+            "input diameter": NaN,
+            "top_diameter": NaN,
+            "length": NaN,
+            "num": NaN,
+            "normal num": NaN,
+            "cross num": NaN,
+            "abnormal num": NaN,
+            "num > 7": 0,
+            "input output ratio": NaN
+        }
+    },
+    "99751": {
+        "image_info": {
+            "cross ratio <= 0.3": 1,
+            "abnormal ratio <= 0.1": 1,
+            "visibility": 1,
+            "num per image": 6.135,
+            "output diameter": 8.297,
+            "input diameter": 7.218,
+            "top_diameter": 10.31,
+            "length": 70.985,
+            "num": 5.0,
+            "normal num": 4.0,
+            "cross num": 1,
+            "abnormal num": 0,
+            "num > 7": 0,
+            "input output ratio": 1.15
+        }
+    }
+}

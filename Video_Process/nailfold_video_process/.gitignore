@@ -1,0 +1,14 @@
+images/
+aligned/
+.vscode/
+__pycache__/
+videos/
+videos1/
+aligned_videos/
+keypoint/
+flow_estimation/
+*.png
+*.mp4
+log/
+debug/
+kp_videos/

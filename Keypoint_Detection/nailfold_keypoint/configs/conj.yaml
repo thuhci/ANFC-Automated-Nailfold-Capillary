@@ -1,0 +1,17 @@
+dataset_dir: "./Data_Preprocess/nailfold_data_preprocess/data/conj_dataset"
+keypoints_classes_ids2names: {
+                0: 'up'
+}
+
+class_name_dict: {
+    'background': 0,
+    'conj': 1,
+}
+
+expname: 'exp_tangshan_cross'
+num_epochs: 50
+bbox_th: 0.7
+
+# keypoint_num: len(keypoints_classes_ids2names)
+CROSS_PADDING: 100
+TOP_PADDING: 20

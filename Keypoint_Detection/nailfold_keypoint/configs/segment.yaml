@@ -1,0 +1,26 @@
+dataset_dir: "./Data_Preprocess/nailfold_data_preprocess/data/segment_dataset"
+
+class_name_dict: {
+    'background': 0,
+    'normal': 1,
+    'blur': 2,
+    'aggregation': 3,
+    'hemo': 4,
+    'abnormal': 1,
+}
+
+mask_colors: [
+        [255,255,255],
+        [255,255,255],
+        [255,0,0],
+        [0,255,0],
+        [0,0,255],
+        [255,255,0],
+        [255,0,255],
+    ]
+
+expname: 'exp19'
+
+num_epochs: 50
+bbox_th: 0.5
+
