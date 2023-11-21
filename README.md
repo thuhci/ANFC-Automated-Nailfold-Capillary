@@ -1,9 +1,12 @@
-Nailfold Capillary Automated Analysis
+# Automated Nailfold Capillary Analysis
 ========================================
 This is a project for nailfold capillary automated analysis. The project is based on the following papers:
 [link]
 Nailfold capillaroscopy stands as a traditional and classical method for health condition assessment. However, manually employing this method poses challenges as the process of human measurement is not only time-consuming but also hindered by subjective criteria. In this research, we are pioneering the construction of a large dataset comprising 321 capillaroscopy images, 219 videos, and 68 clinic reports. This dataset includes annotations such as segmentations and keypoints from experts, forming a crucial resource for training deep-learning models. Leveraging our dataset, we introduce an end-to-end nailfold capillary analysis pipeline capable of automatically detecting and measuring a comprehensive set of morphological and dynamic features. The experiments demonstrate that our automated analysis algorithms achieve remarkable accuracy, which holds promise for quantitative medical research and pervasive computing in human health. We plan to open-source our datasets and code soon to facilitate
 further study.
+
+## Data Sample  
+TBD
 
 ## Setup
 
