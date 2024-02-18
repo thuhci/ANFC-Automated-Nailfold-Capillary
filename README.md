@@ -6,8 +6,18 @@ Nailfold capillaroscopy stands as a traditional and classical method for health 
 further study.
 
 ## Data Sample  
-TBD
+![output](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/assets/73820234/5fd17b34-20c8-46fe-8615-ae0805caaba3)
 
+## Dataset Structure
+```
+├── tangshan_data
+ ├── tangshan_keypoint
+  ├── SubjectID_PicID.jpg   #raw data
+  ├── SubjectID_PicID.json  #label
+ ├── tangshan_segmentation
+  ├── SubjectID_PicID.jpg   #raw data
+  ├── SubjectID_PicID.json  #label
+```
 ## Setup
 
 STEP1: `bash setup.sh` 
