@@ -5,10 +5,14 @@ This is a project for nailfold capillary automated analysis. The paper link:
 Nailfold capillaroscopy stands as a traditional and classical method for health condition assessment. However, manually employing this method poses challenges as the process of human measurement is not only time-consuming but also hindered by subjective criteria. In this research, we are pioneering the construction of a large dataset comprising 321 capillaroscopy images, 219 videos, and 68 clinic reports. This dataset includes annotations such as segmentations and keypoints from experts, forming a crucial resource for training deep-learning models. Leveraging our dataset, we introduce an end-to-end nailfold capillary analysis pipeline capable of automatically detecting and measuring a comprehensive set of morphological and dynamic features. The experiments demonstrate that our automated analysis algorithms achieve remarkable accuracy, which holds promise for quantitative medical research and pervasive computing in human health. We plan to open-source our datasets and code soon to facilitate
 further study.
 
-## Data Sample  
+## 🔥 Updates
+**[2024/2]** **Citation BibTex and Data Release Agreement are updated.**  
+**[2023/11]** **Code is updated.**  
+
+## 🔍 Data Sample  
 ![output](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/assets/73820234/5fd17b34-20c8-46fe-8615-ae0805caaba3)
 
-## Dataset Structure
+## 🖥️ Dataset Structure
 ```
 ANFC_THU
 ├── ANFC_THU_data
@@ -19,7 +23,13 @@ ANFC_THU
   ├── SubjectID_PicID.jpg   #raw data
   ├── SubjectID_PicID.json  #label
 ```
-## Setup
+## 🗝️ Access and Usage
+**This dataset is built for academic use. Any commercial usage is banned.**  
+There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  
+To access the dataset, you are supposed to download this [data release agreement](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/blob/main/ANFC_THU_Release_Agreement.pdf).  
+Please scan and dispatch the completed agreement via your institutional email to <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'ANFC_THU Access Request -  your institution.' In the email,  outline your institution's past research and articulate the rationale for seeking access to the ANFC_THU, including its intended application in your specific research project.   
+
+## ⚙️ Setup
 
 STEP1: `bash setup.sh` 
 
@@ -27,7 +37,7 @@ STEP2: `conda activate nailfold`
 
 STEP3: `pip install -r requirements.txt` 
 
-## Run Pipeline
+## ⚙️ Run Pipeline
 ### Run Image Automated Analysis Pipeline
 - Run full pipeline for specific image analysis:
 ` python Image_Analysis/nailfold_image_profile/overall_analysis.py`
