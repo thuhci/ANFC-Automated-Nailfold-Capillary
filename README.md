@@ -11,6 +11,10 @@ further study.
 
 ## 🔍 Data Sample  
 ![output](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/assets/73820234/5fd17b34-20c8-46fe-8615-ae0805caaba3)
+<div style="text-align: center;">
+    <img src="https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/blob/main/demo.gif" style="width: 50%; height: auto;">
+</div>
+
 
 ## 🖥️ Dataset Structure
 ```
