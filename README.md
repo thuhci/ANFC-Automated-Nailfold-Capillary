@@ -9,14 +9,18 @@ further study.
 **[2024/2]** **Citation BibTex and Data Release Agreement are updated.**  
 **[2023/11]** **Code is updated.**  
 
-## 🔍 Data Sample  
+## 🔍 Dataset   
+### Nailfold capillary images:
 ![output](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/assets/73820234/5fd17b34-20c8-46fe-8615-ae0805caaba3)
+### Nailfold capillary video:
 <div style="text-align: center;">
     <img src="https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/blob/main/demo.gif" style="width: 50%; height: auto;">
-</div>
+</div> 
 
+### Data Distribution
+<img src="https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/assets/73820234/170b1b95-6677-45b4-b7a4-85c0f0837b58" style="width: 50%; height: auto;">
 
-## 🖥️ Dataset Structure
+### Data Structure
 ```
 ANFC_THU
 ├── ANFC_THU_data
