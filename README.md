@@ -6,6 +6,7 @@ Nailfold capillaroscopy stands as a traditional and classical method for health 
 further study.
 
 ## 🔥 Updates
+**[2024/2]** **Contact Email is updated. Please contact ```tjk24@mails.tsinghua.edu.cn``` for the application.**  
 **[2024/2]** **Citation BibTex and Data Release Agreement are updated.**  
 **[2023/11]** **Code is updated.**  
 
@@ -35,7 +36,7 @@ ANFC_THU
 **This dataset is built for academic use. Any commercial usage is banned.**  
 There are two ways for downloads： OneDrive and Baidu Netdisk for researchers of different regions.  
 To access the dataset, you are supposed to download this [data release agreement](https://github.com/THU-CS-PI-LAB/ANFC-Automated-Nailfold-Capillary/blob/main/ANFC_THU_Release_Agreement.pdf).  
-Please scan and dispatch the completed agreement via your institutional email to <tjk19@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'ANFC_THU Access Request -  your institution.' In the email,  outline your institution's past research and articulate the rationale for seeking access to the ANFC_THU, including its intended application in your specific research project.   
+Please scan and dispatch the completed agreement via your institutional email to <tjk24@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'ANFC_THU Access Request -  your institution.' In the email,  outline your institution's website and publications for seeking access to the ANFC_THU, including its intended application in your specific research project. The email should be sent by a faculty rather than a student.    
 
 ## ⚙️ Setup
 
