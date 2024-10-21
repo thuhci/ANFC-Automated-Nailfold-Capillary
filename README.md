@@ -173,12 +173,13 @@ original dataset for crossing point
 
 ## Citation  
 ```
-@misc{zhao2023comprehensive,
-    title={A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis},
-    author={Linxi Zhao and Jiankai Tang and Dongyu Chen and Xiaohong Liu and Yong Zhou and Guangyu Wang and Yuntao Wang},
-    year={2023},
-    eprint={2312.05930},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@inproceedings{zhao2024comprehensive,
+  title={A Comprehensive Dataset and Automated Pipeline for Nailfold Capillary Analysis},
+  author={Zhao, Linxi and Tang, Jiankai and Chen, Dongyu and Liu, Xiaohong and Zhou, Yong and Shi, Yuanchun and Wang, Guangyu and Wang, Yuntao},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
+}
 }
 ```
